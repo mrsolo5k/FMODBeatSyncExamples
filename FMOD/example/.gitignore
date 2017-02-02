@@ -1,0 +1,11 @@
+# FMOD related
+.DS_Store
+*/Assets/FMODStudioCache*
+*/Assets/StreamingAssets/*.bank
+*/Assets/StreamingAssets/*.bank*
+/Assets/FMODStudioCache*
+/Assets/StreamingAssets/*.bank
+/Assets/StreamingAssets/*.bank*
+.cache
+.unsaved
+.user

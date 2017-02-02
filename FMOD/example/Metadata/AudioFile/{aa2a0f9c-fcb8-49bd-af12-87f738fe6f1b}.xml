@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="AudioFile" id="{aa2a0f9c-fcb8-49bd-af12-87f738fe6f1b}">
+        <property name="assetPath">
+            <value>serum.mp3</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>200.07183673469387</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{397a2526-a85f-42b4-824d-dfa33136c870}</destination>
+        </relationship>
+    </object>
+</objects>
