@@ -31,3 +31,9 @@ ExportedObj/
 
 fmod.log
 fmod_editor.log
+
+*/Assets/FMODStudioCache*
+/Assets/FMODStudioCache*
+.cache
+.unsaved
+.user
