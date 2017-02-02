@@ -10,3 +10,5 @@ Simple examples of music callbacks utilisation in Unreal Engine and Unity
 ```
 FMOD/example/Build/Desktop
 ```
+------
+This project requires git-lfs
